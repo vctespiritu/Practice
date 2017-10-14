@@ -18,8 +18,6 @@ import java.util.Scanner;
  * with the hawk types, how many were seen on each of them,
  * and the percentage of overall hawk represented by each specie.
  *
- * Changes!
- *
  */
 
 public class HawkCount {
