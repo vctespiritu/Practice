@@ -7,8 +7,8 @@ import java.util.Scanner;
  * @version 1.0
  * 
  * Professor: 
- * 		James Burke COMI-1510-602 
- * 		Java Programming
+ * James Burke COMI-1510-602 
+ * Java Programming
  * 
  * This is a program that obtains hawk count data from the keyboard, in
  * a loop, until the user enters a sentinel value of -1. There are 5
